@@ -1,7 +1,7 @@
 # MedSec AI Foundation
 
 
-**A. Week 1 – Foundation**
+### A. Week 1 – Foundation
 
 
 ### Day 1
