@@ -23,17 +23,16 @@ Catatan:
 Permission menentukan siapa yang boleh membaca, mengubah, atau menjalankan file. Ini adalah lapisan keamanan utama Linux
 
 contoh: -rw-r--r--
-	- Owner -> rw -> boleh baca & edit
-	- Group -> r -> cuma boleh baca
-	- Others -> r -> cuma boleh baca	
+- Owner -> rw -> boleh baca & edit
+- Group -> r -> cuma boleh baca
+- Others -> r -> cuma boleh baca	
 
 
 > Kenapa root berbahaya?
+- Root = akses penuh
+- Salah satu perintah bisa menghancurkan sistem
+- Hacker selalu menargetkan root access
 	
 
-	- Root = akses penuh
-	- Salah satu perintah bisa menghancurkan sistem
-	- Hacker selalu menargetkan root access
-	
-	Gunakan user biasa, pakai sudo hanya jika perlu
+Gunakan user biasa, pakai sudo hanya jika perlu
 
