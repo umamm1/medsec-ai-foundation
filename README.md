@@ -1,8 +1,10 @@
 # MedSec AI Foundation
 
-##Week 1 – Foundation
 
-###Day 1
+## Week 1 – Foundation
+
+
+### Day 1
 
 Learning secure backend & system fundamentals
 
