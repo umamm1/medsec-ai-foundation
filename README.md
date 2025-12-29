@@ -7,7 +7,7 @@
 Learning secure backend & system fundamentals
 
 
-## Day 2 — Linux Core
+### Day 2 — Linux Core
 
 Belajar dasar Linux:
 - Perintah CLI dasar (pwd, ls, cd, mkdir, rm, touch)
