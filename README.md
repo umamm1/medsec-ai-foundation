@@ -1,15 +1,15 @@
 # MedSec AI Foundation
 
 
-## Week 1 – Foundation
+A. Week 1 – Foundation
 
 
-### Day 1
+## Day 1
 
 Learning secure backend & system fundamentals
 
 
-### Day 2 — Linux Core
+## Day 2 — Linux Core
 
 Belajar dasar Linux:
 - Perintah CLI dasar (pwd, ls, cd, mkdir, rm, touch)
