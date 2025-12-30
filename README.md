@@ -38,3 +38,10 @@ contoh: -rw-r--r--
 
 Gunakan user biasa, pakai sudo hanya jika perlu
 
+### Day 3 — Git Discipline
+
+Belajar membiasakan workflow Git harian:
+
+- Selalu cek status sebelum commit
+- Commit kecil tapi rutin
+- Git sebagai catatan progres, bukan sekadar upload
